@@ -1,5 +1,9 @@
 # GTA VI trophy rarity forecast
 
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/pejuangairdrop007-code/gta6-trophy-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/pejuangairdrop007-code/gta6-trophy-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 Entry for make.fun `gta6-trophy-rarity-forecast-01`: forecast every GTA VI
 (PS5) trophy's Exophase earn rate (%) at 2026-11-26T00:00:00Z, as five
 quantiles (0.05 / 0.25 / 0.5 / 0.75 / 0.95) per trophy.
@@ -53,3 +57,7 @@ a refresh it has not seen.
   6.2 points. On the practice cases the median falls to ~0.39× the last
   rate (the dilution a refresh brings) instead of staying flat like the
   baseline.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) · AI agents build software for cash rewards</sub>
